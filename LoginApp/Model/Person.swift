@@ -10,7 +10,7 @@ import Foundation
 enum Person: String {
     case login = "newman"
     case password = "qwerty"
-    case userName = "Mikhail"
+    case firstName = "Mikhail"
     case lastName = "Scherbina"
     case email = "mopeoutdoor@gmail.com"
     case sex = "male"

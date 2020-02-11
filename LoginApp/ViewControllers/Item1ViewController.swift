@@ -17,7 +17,7 @@ class Item1ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        labelOutlet.text = "Welcom \(userName)"
+        labelOutlet.text = "Welcome, \(userName)"
     }
     
     

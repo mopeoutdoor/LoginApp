@@ -15,6 +15,7 @@
 		636B374523EEF16800B6E2A5 /* Item1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636B374423EEF16800B6E2A5 /* Item1ViewController.swift */; };
 		636B374823EF42DC00B6E2A5 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636B374723EF42DC00B6E2A5 /* Person.swift */; };
 		636B374A23F14D8D00B6E2A5 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636B374923F14D8D00B6E2A5 /* StartViewController.swift */; };
+		636B376A23F2C9A000B6E2A5 /* PerosonalDataViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 636B376923F2C99F00B6E2A5 /* PerosonalDataViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		636B374423EEF16800B6E2A5 /* Item1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item1ViewController.swift; sourceTree = "<group>"; };
 		636B374723EF42DC00B6E2A5 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		636B374923F14D8D00B6E2A5 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = StartViewController.swift; path = LoginApp/ViewControllers/StartViewController.swift; sourceTree = SOURCE_ROOT; };
+		636B376923F2C99F00B6E2A5 /* PerosonalDataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PerosonalDataViewController.swift; path = LoginApp/ViewControllers/PerosonalDataViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 		636B374023ED408E00B6E2A5 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				636B376923F2C99F00B6E2A5 /* PerosonalDataViewController.swift */,
 				636B374923F14D8D00B6E2A5 /* StartViewController.swift */,
 				636B373023ED3F9100B6E2A5 /* ViewController.swift */,
 				636B374423EEF16800B6E2A5 /* Item1ViewController.swift */,
@@ -184,6 +187,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				636B376A23F2C9A000B6E2A5 /* PerosonalDataViewController.swift in Sources */,
 				636B374A23F14D8D00B6E2A5 /* StartViewController.swift in Sources */,
 				636B373123ED3F9100B6E2A5 /* ViewController.swift in Sources */,
 				636B374523EEF16800B6E2A5 /* Item1ViewController.swift in Sources */,
